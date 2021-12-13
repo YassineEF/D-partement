@@ -4,7 +4,6 @@
 }
 body{
     background-color: #7A8FBB;
-    width: 100%;
 }
 #header{
     width: 100%;
@@ -265,7 +264,7 @@ label{
         display: none;
     }
     #container #firstcont{ 
-       background: linear-gradient( rgba(122,143,187,0.5), rgba(255,255,255,0.5)),center / cover no-repeat url(../img/FoireAnnecy.jpg);
+       background: linear-gradient( rgba(0,0,0,0.5), rgba(0,0,0,0.5)),center / cover no-repeat url(../img/FoireAnnecy.jpg);
        border-radius: 20px;
     }
     #container #firstcont #textcont{ 
@@ -274,7 +273,7 @@ label{
         text-shadow: 3px 3px 2px #000;
     }
     #container #secondcont{ 
-        background: linear-gradient( rgba(122,143,187,0.5), rgba(255,255,255,0.5)),center / cover no-repeat url(../img/FoireCluse.jpg);
+        background: linear-gradient( rgba(0,0,0,0.5), rgba(0,0,0,0.5)),center / cover no-repeat url(../img/FoireCluse.jpg);
         border-radius: 20px;
     }
     #container #secondcont #textcont{ 
@@ -283,7 +282,7 @@ label{
         text-shadow: 3px 3px 2px #000;
     }
     #container #thirdcont{ 
-        background: linear-gradient( rgba(122,143,187,0.5), rgba(255,255,255,0.5)),center / cover no-repeat url(../img/ExpoAnnemasse.jpg);
+        background: linear-gradient( rgba(0,0,0,0.5), rgba(0,0,0,0.5)),center / cover no-repeat url(../img/ExpoAnnemasse.jpg);
         border-radius: 20px;
     }
     #container #thirdcont #textcont{ 
@@ -292,7 +291,7 @@ label{
         text-shadow: 3px 3px 2px #000;
     }
     #container #fourthcont{ 
-        background: linear-gradient( rgba(122,143,187,0.5), rgba(255,255,255,0.5)),center / cover no-repeat url(../img/FoireEvian.jpg);
+        background: linear-gradient( rgba(0,0,0,0.5), rgba(0,0,0,0.5)),center / cover no-repeat url(../img/FoireEvian.jpg);
         border-radius: 20px;
     }
     #container #fourthcont #textcont{ 
